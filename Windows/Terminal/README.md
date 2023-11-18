@@ -3,7 +3,7 @@
 
 [Neofetch](https://github.com/nepnep39/neofetch-win)
 # Shell
-I use [powershell 7](https://learn.microsoft.com/pl-pl/powershell/scripting/install/installing-powershell-on-windows) as a shell.
+I use [PowerShell 7](https://learn.microsoft.com/pl-pl/powershell/scripting/install/installing-powershell-on-windows) as a shell.
 
 I've installed it via winget.
 ```powershell
