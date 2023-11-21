@@ -27,7 +27,7 @@ Please note that I use borderless terminal. To open settings or whatever you nee
 If you want to have normal window change `Launch mode` to `Default` in `Settings -> Startup -> Launch parameters`.
 
 ## Font
-I use a `CaskaydiaCove` nerd font that can be downloaded from [nerdfonts.com](https://www.nerdfonts.com/font-downloads). It looks like `Cascadia Code` which is similar to `Cascadia Mono` (default in Windows Terminal).
+I use a `CaskaydiaMono` nerd font that can be downloaded from [nerdfonts.com](https://www.nerdfonts.com/font-downloads). It looks like `Cascadia Mono` (default in Windows Terminal). If you want ligatures you can use `CaskadyiaCove` instead.
 
 ## [Starship](https://starship.rs)
 Please follow [this instruction](https://starship.rs/guide/#🚀-installation) to install Starship. Please remember to add `Invoke-Expression (&starship init powershell)` in your PowerShell configuration (I've included mine in this repo).
