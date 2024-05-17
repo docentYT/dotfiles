@@ -2,7 +2,7 @@
 [arkenfox](https://github.com/arkenfox/user.js/) with my `user-overrides.js`.
 
 ## Style
-Modified [PotatoFox ](https://gitlab.com/awwsomepotato/FirefoxCSS) css.
+Modified [PotatoFox](https://codeberg.org/awwpotato/FirefoxCSS/) css.
 For example in `extensions.css` I've modified `content` in `#unified-extensions-view:before`. In `main.css` I've changed `--user-panel-gap` to `1px` because I like to have sidebar fully hidden. In Sidebery I set `Show new tab buttons position` to `after tabs`.
 
 ### Colors
