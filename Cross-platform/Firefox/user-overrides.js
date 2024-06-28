@@ -12,6 +12,9 @@ user_pref("browser.tabs.warnOnClose", true); // warn beforce closing multiple ta
 // Awwsome potato css
 // my config
 user_pref("uc.tweak.sidebar-full-collapse", true); // arc like fully hidden sidebar when not hovered over
+user_pref("uc.tweak.regular-search", true); // return url-bar to original state
+user_pref("uc.tweak.extra-thick", true); // make margin around browser 2px thicker
+user_pref("uc.tweak.no-panel-hint", true); // hide the small bars showing hidden panels
 
 // required prefs
 // userchrome.css usercontent.css activate
@@ -29,9 +32,12 @@ user_pref("browser.urlbar.suggest.calculator", true);
 // Integrated unit convertor at urlbar
 user_pref("browser.urlbar.unitConversion.enabled", true);
 
-/* Trim  URL */
+// Trim  URL
 user_pref("browser.urlbar.trimHttps", true);
 user_pref("browser.urlbar.trimURLs", true);
 
-/* show compact mode */
+// GTK rounded corners
+user_pref("widget.gtk.rounded-bottom-corners.enabled", true);
+
+// show compact mode
 user_pref("browser.compactmode.show", true);
