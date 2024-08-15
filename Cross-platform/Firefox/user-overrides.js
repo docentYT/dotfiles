@@ -11,10 +11,8 @@ user_pref("browser.tabs.warnOnClose", true); // warn beforce closing multiple ta
 
 // Awwsome potato css
 // my config
-user_pref("uc.tweak.sidebar-full-collapse", true); // arc like fully hidden sidebar when not hovered over
-user_pref("uc.tweak.regular-search", true); // return url-bar to original state
-user_pref("uc.tweak.extra-thick", true); // make margin around browser 2px thicker
-user_pref("uc.tweak.no-panel-hint", true); // hide the small bars showing hidden panels
+user_pref("uc.tweak.borderless", true); // removes margins around the webpage
+user_pref("uc.tweak.regular-search", true); // return urlbar to original state
 
 // required prefs
 // userchrome.css usercontent.css activate
@@ -41,3 +39,12 @@ user_pref("widget.gtk.rounded-bottom-corners.enabled", true);
 
 // show compact mode
 user_pref("browser.compactmode.show", true);
+
+// fix sidebar tab drag on linux
+user_pref("widget.gtk.ignore-bogus-leave-notify", 1);
+
+// option for transparent tab bg (disabled to due issues on some websites)
+// user_pref("browser.tabs.allow_transparent_browser", false);
+
+// uidensity -> compact
+user_pref("browser.uidensity", 1);

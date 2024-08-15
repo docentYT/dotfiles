@@ -1,0 +1,13 @@
+:root {
+    --uc-transition: 0ms ease-in-out !important;
+    --uc-content-radius: 0px !important;
+    --uc-content-margin: 10px !important;
+
+    &[uidensity="compact"] {
+        --uc-content-margin: 0.01px !important;
+        --uc-sidebar-margin: 0px !important;
+    }
+
+    /* sidebar vars */
+    --uc-sidebar-hover-width: 200px !important;
+}
