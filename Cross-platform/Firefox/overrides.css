@@ -1,13 +1,14 @@
 :root {
-    --uc-transition: 0ms ease-in-out !important;
+    --uc-radius: 0px !important;
+    --uc-button-radius: 0px !important;
     --uc-content-radius: 0px !important;
-    --uc-content-margin: 10px !important;
 
-    &[uidensity="compact"] {
-        --uc-content-margin: 0.01px !important;
-        --uc-sidebar-margin: 0px !important;
-    }
+    --uc-content-margin: 0.01px !important;
+    --uc-sidebar-margin: 0px !important;
+    --uc-sidebar-margin: 0px !important;
 
-    /* sidebar vars */
-    --uc-sidebar-hover-width: 200px !important;
+    --uc-hover-target-size: 0px !important;
+
+    --uc-small-floating-margin: 0px !important;
+    --uc-floating-margin: 0px !important;
 }
