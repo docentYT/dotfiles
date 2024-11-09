@@ -50,8 +50,13 @@ user_pref("browser.compactmode.show", true);
 // fix sidebar tab drag on linux
 user_pref("widget.gtk.ignore-bogus-leave-notify", 1);
 
-// DISABLED SEE https://codeberg.org/awwpotato/potatofox/issues/22
-// user_pref("browser.tabs.allow_transparent_browser", true);
+user_pref("browser.tabs.allow_transparent_browser", true);
 
 // uidensity -> compact
 user_pref("browser.uidensity", 1);
+
+// macos transparent
+user_pref("widget.macos.titlebar-blend-mode.behind-window", true);
+
+// don't warn on about:config open
+user_pref("browser.aboutConfig.showWarning", false);
