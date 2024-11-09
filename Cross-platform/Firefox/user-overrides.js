@@ -50,7 +50,7 @@ user_pref("browser.compactmode.show", true);
 // fix sidebar tab drag on linux
 user_pref("widget.gtk.ignore-bogus-leave-notify", 1);
 
-user_pref("browser.tabs.allow_transparent_browser", true);
+// user_pref("browser.tabs.allow_transparent_browser", true);
 
 // uidensity -> compact
 user_pref("browser.uidensity", 1);
