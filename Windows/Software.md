@@ -13,7 +13,8 @@
 - [WinRAR](https://www.win-rar.com) - file archiver
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - set of Windows utilities
 - [Anki](https://apps.ankiweb.net) - flashcard program
-- [Xournal++](https://xournalpp.github.io) - the best free open source tool I've found for taking notes
+- [Xournal++](https://xournalpp.github.io) - the best free open source tool I've found for taking notes with drawing tablet support
+- [Joplin](https://joplinapp.org/) - the best free open source software for taking markdown notes with synchronization, katex and plugin support
 - [OBS Studio](https://obsproject.com) - screen recording
 
 # Graphics
