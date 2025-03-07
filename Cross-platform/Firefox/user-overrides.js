@@ -1,5 +1,10 @@
 // arkenfox
 user_pref("privacy.sanitize.sanitizeOnShutdown", false); // do not clear data on shutdown
+user_pref("privacy.clearOnShutdown_v2.browsingHistoryAndDownloads", false); // do not clear data on shutdown
+user_pref("privacy.clearOnShutdown_v2.downloads", false); // do not clear data on shutdown
+user_pref("privacy.clearOnShutdown_v2.formdata", false); // do not clear data on shutdown
+user_pref("privacy.clearSiteData.browsingHistoryAndDownloads", false); // do not clear data on shutdown
+user_pref("privacy.clearSiteData.formdata", false); // do not clear data on shutdown
 user_pref("webgl.disabled", false); // enable webgl
 user_pref("privacy.resistFingerprinting.letterboxing", false); // disable letterboxing
 user_pref("browser.startup.page", 3); // restore previous session
@@ -60,3 +65,6 @@ user_pref("widget.macos.titlebar-blend-mode.behind-window", true);
 
 // don't warn on about:config open
 user_pref("browser.aboutConfig.showWarning", false);
+
+user_pref("sidebar.revamp", false);
+user_pref("sidebar.verticalTabs", false);
