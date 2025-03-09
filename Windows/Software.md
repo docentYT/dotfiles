@@ -20,7 +20,7 @@
 - [WinRAR](https://www.win-rar.com) - file archiver
 - [BulkFileChanger](https://bulkfilechanger.com/) - software for changing files dates
 - [XnView](https://www.xnview.com/) - software for changing dates and exif data in photos
-- [croc](github.com/schollz/croc) - tool that allows any two computers to simply and securely transfer files and folders
+- [croc](https://github.com/schollz/croc) - tool that allows any two computers to simply and securely transfer files and folders
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
 
 # Graphics & Videos
