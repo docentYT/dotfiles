@@ -34,3 +34,6 @@
 - [FFmpeg](https://ffmpeg.org/) - cli for working with video files
 - [FFvid](https://github.com/docentYT/FFvid) - fast and easy-to-use video editor for quick edits based on FFmpeg 
 - [IrfanView](https://www.irfanview.com/) - for displaying slideshows with greater control than default windows photo app
+
+# Other
+- [Sweet Home 3D](https://www.sweethome3d.com) - free interior design application
