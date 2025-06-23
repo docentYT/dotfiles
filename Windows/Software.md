@@ -2,7 +2,7 @@
 - [Windows Package Manager (winget)](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - for installing and updating software
 - - [Komac](https://github.com/russellbanks/Komac) - for generating winget manifests
 - [vfox](https://github.com/version-fox/vfox) - version manager for [java](https://github.com/version-fox/vfox-java) and [nodejs](https://github.com/version-fox/vfox-nodejs). It supports more runtimes via plugins. Currently, the python plugin does not work very well.
-- [pyenv-win](https://github.com/pyenv-win/pyenv-win) - version manager for python
+- [astral-sh/uv](https://github.com/astral-sh/uv) - package & version manager for python
 - [Stability Matrix](https://github.com/version-fox/vfox-nodejs) - package manager for Stable Diffusion
 
 # Daily used software
