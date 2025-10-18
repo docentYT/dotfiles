@@ -1,0 +1,40 @@
+## Extensions
+- [Batch Runner](https://marketplace.visualstudio.com/items?itemName=NilsSoderman.batch-runner) - Run batch files in the VS Code terminal
+- Web/JavaScript:
+  - [Angular Language Server](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Editor services for Angular templates
+  - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) - JavaScript console.log output and runtime errors right next to your code.
+  - [lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html
+  - [MJML Official](https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml) - MJML preview, lint, compile for Visual Studio Code.
+  - Nx [Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - The UI for Monorepos, providing visual workflows and enriching your AI Chat with deep insights
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
+  - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.
+  - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Svelte language support for VS Code
+  - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
+  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages
+- Python:
+  - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Generates python docstrings automatically
+  - [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Formatting support for Python files using the Black formatter.
+  - [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) - Jinja template language support for Visual Studio Code
+  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.
+- C/C++:
+  - [Qt Extension Pack](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) - Recommended extensions for Qt development.
+  - [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) - Popular extensions for C++ development in Visual Studio Code.
+  - [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) - Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)
+- Docker (Podman in my case):
+  - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+  - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
+  - [Docker DX](https://marketplace.visualstudio.com/items?itemName=docker.docker) - Edit smarter, ship faster with an enhanced Docker-development experience
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development
+- [kconfig](https://marketplace.visualstudio.com/items?itemName=luveti.kconfig) - This extension provides syntax highlighting for the kbuild kconfig language. This is used for linux kernel (.config) and Buildroot (.in and .in.host) configuration files.
+- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
+- [Nand2Tetris](https://marketplace.visualstudio.com/items?itemName=roblourens.vscode-nand2tetris-hdl) - Snippets and syntax highlighting for the HDL and ASM languages from the Nand2Tetris course.
+- [Nand2Tetris HDL Visualizer](https://marketplace.visualstudio.com/items?itemName=PranavJain.nand2tetris-hdl-visualizer) - This tool can produce beautiful visualizations of your nand2tetris hdl files.
+- [Nilesoft Shell File Formatter](https://marketplace.visualstudio.com/items?itemName=code-nature.nilesoft-shell-file-formatter) - Nilesoft Shell configration files highlighting and snippets
+- [Overpass QL syntax](https://marketplace.visualstudio.com/items?itemName=tqdv.overpassql-syntax) - Overpass QL syntax highlighting for vscodium-compatible editors
+- R (https://code.visualstudio.com/docs/languages/r):
+  - [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r) - R Extension for Visual Studio Code
+- [Render Line Endings](https://marketplace.visualstudio.com/items?itemName=medo64.render-crlf) - Renders end of line characters (`CR`, `LF`, `CRLF`) when whitespace rendering is on
+- [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
