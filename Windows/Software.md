@@ -14,6 +14,8 @@
 - [Anki](https://apps.ankiweb.net) - flashcard program
 - [Xournal++](https://xournalpp.github.io) - the best free open source tool I've found for taking notes with drawing tablet support
 - [Joplin](https://joplinapp.org/) - the best free open source software for taking markdown notes with synchronization, katex and plugin support
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with many extensions
+- [HeidiSQL](https://www.heidisql.com/) - Database editor that supports many engines
 
 # Working with files
 - [Total Commander](https://www.ghisler.com) - file manager with file verification and comparison function
@@ -22,6 +24,7 @@
 - [XnView](https://www.xnview.com/) - software for changing dates and exif data in photos
 - [croc](https://github.com/schollz/croc) - tool that allows any two computers to simply and securely transfer files and folders
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
+- [Meld](https://meldmerge.org/) - Visual diff and merge tool
 
 # Graphics & Videos
 - [OBS Studio](https://obsproject.com) - screen recording
@@ -34,6 +37,8 @@
 - [FFmpeg](https://ffmpeg.org/) - cli for working with video files
 - [FFvid](https://github.com/docentYT/FFvid) - fast and easy-to-use video editor for quick edits based on FFmpeg 
 - [IrfanView](https://www.irfanview.com/) - for displaying slideshows with greater control than default windows photo app
+- [Scribus](https://www.scribus.net/) - To prepare pdf's for printing with CMYK profile
 
 # Other
 - [Sweet Home 3D](https://www.sweethome3d.com) - free interior design application
+- [EarTrumpet](https://eartrumpet.app/) - Volume control for Windows
