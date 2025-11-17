@@ -1,9 +1,6 @@
 // arkenfox
 user_pref("privacy.sanitize.sanitizeOnShutdown", false); // do not clear data on shutdown
-user_pref("privacy.clearOnShutdown_v2.browsingHistoryAndDownloads", false); // do not clear data on shutdown
-user_pref("privacy.clearOnShutdown_v2.downloads", false); // do not clear data on shutdown
 user_pref("privacy.clearOnShutdown_v2.formdata", false); // do not clear data on shutdown
-user_pref("privacy.clearSiteData.browsingHistoryAndDownloads", false); // do not clear data on shutdown
 user_pref("privacy.clearSiteData.formdata", false); // do not clear data on shutdown
 user_pref("webgl.disabled", false); // enable webgl
 user_pref("privacy.resistFingerprinting.letterboxing", false); // disable letterboxing
