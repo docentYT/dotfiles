@@ -9,7 +9,8 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - web browser
 - [LibreOffice](https://www.libreoffice.org) - office suite
 - [Mozilla Thunderbird](https://www.thunderbird.net) - email client
-- [MiKTeX](https://miktex.org) - tex distribution
+- ~~[MiKTeX](https://miktex.org) - tex distribution~~
+- [Typst](https://typst.app/) - LaTeX alternative with simpler syntax, faster compile times and more advanced functions
 - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - set of Windows utilities
 - [Anki](https://apps.ankiweb.net) - flashcard program
 - [Xournal++](https://xournalpp.github.io) - the best free open source tool I've found for taking notes with drawing tablet support

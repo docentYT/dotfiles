@@ -26,7 +26,8 @@
   - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
   - [Docker DX](https://marketplace.visualstudio.com/items?itemName=docker.docker) - Edit smarter, ship faster with an enhanced Docker-development experience
 - [kconfig](https://marketplace.visualstudio.com/items?itemName=luveti.kconfig) - This extension provides syntax highlighting for the kbuild kconfig language. This is used for linux kernel (.config) and Buildroot (.in and .in.host) configuration files.
-- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+- ~~[LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.~~ I am migrating to Typst
+- [Tinymist Typst](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - Typst integrated language server.
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
 - [Nand2Tetris](https://marketplace.visualstudio.com/items?itemName=roblourens.vscode-nand2tetris-hdl) - Snippets and syntax highlighting for the HDL and ASM languages from the Nand2Tetris course.
