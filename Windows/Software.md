@@ -26,6 +26,8 @@
 - [croc](https://github.com/schollz/croc) - tool that allows any two computers to simply and securely transfer files and folders
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
 - [Meld](https://meldmerge.org/) - Visual diff and merge tool
+- [VirtualCloneDrive](https://www.elby.ch/en/products/vcd.html) - Mouting files as virtual drive
+- [iDescriptor](https://github.com/iDescriptor/iDescriptor) - feature rich Apple's iDevice management tool
 
 # Graphics & Videos
 - [OBS Studio](https://obsproject.com) - screen recording
@@ -39,7 +41,16 @@
 - [FFvid](https://github.com/docentYT/FFvid) - fast and easy-to-use video editor for quick edits based on FFmpeg 
 - [IrfanView](https://www.irfanview.com/) - for displaying slideshows with greater control than default windows photo app
 - [Scribus](https://www.scribus.net/) - To prepare pdf's for printing with CMYK profile
+- [CloudCompare](https://www.cloudcompare.org/) - mainly for viewing point clouds and georeferenced meshes (with double precission coordinates)
+- [MeshLab](https://www.meshlab.net/) - can open huge meshes, good for cleanup and mesh optimization
+- [Fresh Paint](https://apps.microsoft.com/detail/9wzdncrfjb13) - fun program with realistic brush simulation
+- [Smart Connect](https://www.lenovo.com/us/en/software/smart-connect/) - connect phone to pc wirelessly
+- [VLC media player](https://www.videolan.org/vlc/) - feature rich video player, with support for multiple codecs, dvd menus and blu-ray (see: https://vlc-bluray.whoknowsmy.name/)
 
 # Other
 - [Sweet Home 3D](https://www.sweethome3d.com) - free interior design application
 - [EarTrumpet](https://eartrumpet.app/) - Volume control for Windows
+- [Pympress](https://github.com/Cimbali/pympress) - PDF reader designed for dual-screen presentations
+- [draw.io](https://www.drawio.com/) - diagram editor, useful for homelab
+- [KiCad](https://www.kicad.org/) - PCB Design Suite
+- [QGIS](https://qgis.org/) - geographic information system
