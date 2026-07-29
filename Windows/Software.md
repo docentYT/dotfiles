@@ -17,6 +17,7 @@
 - [Joplin](https://joplinapp.org/) - the best free open source software for taking markdown notes with synchronization, katex and plugin support
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor with many extensions
 - [HeidiSQL](https://www.heidisql.com/) - Database editor that supports many engines
+- [Windows Scanner](https://apps.microsoft.com/detail/9wzdncrfj3pv) - Support for scanners
 
 # Working with files
 - [Total Commander](https://www.ghisler.com) - file manager with file verification and comparison function
