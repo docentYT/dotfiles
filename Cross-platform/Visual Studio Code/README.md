@@ -5,9 +5,10 @@
   - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) - JavaScript console.log output and runtime errors right next to your code.
   - [lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html
   - [MJML Official](https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml) - MJML preview, lint, compile for Visual Studio Code.
-  - Nx [Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - The UI for Monorepos, providing visual workflows and enriching your AI Chat with deep insights
+  - [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - The UI for Monorepos, providing visual workflows and enriching your AI Chat with deep insights
   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
   - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.
+  - [Svelte Component Visualizer](https://marketplace.visualstudio.com/items?itemName=jamcgrath.svelte-component-visualizer) - Visualize Svelte component dependencies as an interactive graph
   - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Svelte language support for VS Code
   - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages
@@ -20,11 +21,14 @@
 - C/C++:
   - [Qt Extension Pack](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) - Recommended extensions for Qt development.
   - [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) - Popular extensions for C++ development in Visual Studio Code.
+  - [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) - Let me generate Doxygen documentation from your source code for you.
   - [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) - Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)
 - Docker (Podman in my case):
+  - [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) - Makes it easy to create, manage, and debug containerized applications.
   - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
   - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
   - [Docker DX](https://marketplace.visualstudio.com/items?itemName=docker.docker) - Edit smarter, ship faster with an enhanced Docker-development experience
+  - [droast — Dockerfile Linter](https://marketplace.visualstudio.com/items?itemName=ImmanuelTikhonov.droast) - Dockerfile linter with personality. Catches bad practices and tells you about them in the least diplomatic way possible.
 - [kconfig](https://marketplace.visualstudio.com/items?itemName=luveti.kconfig) - This extension provides syntax highlighting for the kbuild kconfig language. This is used for linux kernel (.config) and Buildroot (.in and .in.host) configuration files.
 - ~~[LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.~~ I am migrating to Typst
 - [Tinymist Typst](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - Typst integrated language server.
@@ -38,3 +42,7 @@
   - [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r) - R Extension for Visual Studio Code
 - [Render Line Endings](https://marketplace.visualstudio.com/items?itemName=medo64.render-crlf) - Renders end of line characters (`CR`, `LF`, `CRLF`) when whitespace rendering is on
 - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
+- [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) - Allows viewing and editing files in a hex editor
+- [llama-vscode](https://marketplace.visualstudio.com/items?itemName=ggml-org.llama-vscode) - Local LLM-assisted text completion using llama.cpp. I am using Qwen2.5-Coder-1.5B-Q8_O-GGUF.
+- [Outline Map](https://marketplace.visualstudio.com/items?itemName=Gerrnperl.outline-map) - A visual, interactive outline map that combinesAlternative Minimap. the clarity of the outline with the intuitive overview of the minimap. Enhanced version of vscode built-in outline.
+- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display pdf file in VSCode.

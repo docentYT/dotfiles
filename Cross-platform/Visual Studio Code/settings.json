@@ -39,90 +39,69 @@
         "editor.semanticHighlighting.enabled": true
     },
     "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, TabWidth: 4, UseTab: Never, ColumnLimit: 80 }",
-    "latex-workshop.formatting.latex": "latexindent",
     "terminal.integrated.suggest.enabled": true,
-    "r.plot.useHttpgd": true,
-    "latex-workshop.latex.recipes": [
-
-        {
-            "name": "latexmk",
-            "tools": [
-                "latexmk"
-            ]
-        },
-        {
-            "name": "latexmk (latexmkrc)",
-            "tools": [
-                "latexmk_rconly"
-            ]
-        },
-        {
-            "name": "latexmk (lualatex)",
-            "tools": [
-                "lualatexmk"
-            ]
-        },
-        {
-            "name": "latexmk (xelatex)",
-            "tools": [
-                "xelatexmk"
-            ]
-        },
-        {
-            "name": "pdflatex -> bibtex -> pdflatex * 2",
-            "tools": [
-                "pdflatex",
-                "bibtex",
-                "pdflatex",
-                "pdflatex"
-            ]
-        },
-        {
-            "name": "Compile Rnw files",
-            "tools": [
-                "rnw2tex",
-                "latexmk"
-            ]
-        },
-        {
-            "name": "Compile Jnw files",
-            "tools": [
-                "jnw2tex",
-                "latexmk"
-            ]
-        },
-        {
-            "name": "Compile Pnw files",
-            "tools": [
-                "pnw2tex",
-                "latexmk"
-            ]
-        },
-        {
-            "name": "tectonic",
-            "tools": [
-                "tectonic"
-            ]
-        }
-    ],
-    "latex-workshop.latex.recipe.default": "lastUsed",
     "[r]": {
         "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",<>/"
     },
     "[dockercompose]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "dev.containers.dockerPath": "podman",
     "svelte.enable-ts-plugin": true,
     "[svelte]": {
         "editor.defaultFormatter": "svelte.svelte-vscode"
     },
     "editor.renderWhitespace": "all",
     "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "vscode.html-language-features"
     },
     "[css]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "vscode.css-language-features"
     },
-    "qt-core.qtInstallationRoot": "c:\\Qt"
+    "qt-core.qtInstallationRoot": "c:\\Qt",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "python.analysis.typeCheckingMode": "standard",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "cmake.configureOnOpen": false,
+    "workbench.editorAssociations": {
+        "{git,gitlens,chat-editing-snapshot-text-model,copilot,git-graph,git-graph-3}:/**/*.qrc": "default",
+        "{git,gitlens,chat-editing-snapshot-text-model,copilot,git-graph,git-graph-3}:/**/*.ui": "default",
+        "*.qrc": "qt-core.qrcEditor"
+    },
+    "workbench.colorTheme": "Dark Modern",
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "ms-settings"
+    ],
+    "cmake.showConfigureWithDebuggerNotification": false,
+    "cmake.configureOnEdit": false,
+    "llama-vscode.tool_run_terminal_command_enabled": false,
+    "llama-vscode.tool_search_source_enabled": false,
+    "llama-vscode.tool_read_file_enabled": false,
+    "llama-vscode.tool_list_directory_enabled": false,
+    "llama-vscode.tool_regex_search_enabled": false,
+    "llama-vscode.tool_delete_file_enabled": false,
+    "llama-vscode.tool_get_diff_enabled": false,
+    "llama-vscode.tool_edit_file_enabled": false,
+    "llama-vscode.tool_ask_user_enabled": false,
+    "llama-vscode.tool_custom_tool_enabled": false,
+    "llama-vscode.tool_custom_eval_tool_enabled": false,
+    "llama-vscode.tool_llama_vscode_help_enabled": false,
+    "llama-vscode.tool_update_todo_list_enabled": false,
+    "llama-vscode.tool_delegate_task_enabled": false,
+    "llama-vscode.tool_create_agent_enabled": false,
+    "chat.disableAIFeatures": true,
+    "llama-vscode.rag_enabled": false,
+    "containers.containerClient": "com.microsoft.visualstudio.containers.podman",
+    "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.podmancompose",
+    "npm.packageManager": "bun",
+    "llama-vscode.enabled": false,
+    "dev.containers.dockerComposePath": "podman compose",
+    "dev.containers.optimisticallyLaunchDocker": false,
+    "dev.containers.dockerSocketPath": "/var/run/podman.sock",
+    "dev.containers.dockerPath": "podman"
 }
