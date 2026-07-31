@@ -10,9 +10,6 @@ I've installed it via winget.
 winget install --id Microsoft.Powershell --source winget
 ```
 
-## [CompletePredictor](https://github.com/PowerShell/CompletionPredictor)
-I can recommend using it.
-
 # Terminal
 I will use [Windows Terminal](https://github.com/microsoft/terminal).
 
