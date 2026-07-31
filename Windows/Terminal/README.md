@@ -19,7 +19,7 @@ My settings are available in this directory. Feel free to change profiles to mee
 Color schema is a modified version of [windows-terminal-vscode](https://github.com/cristipufu/windows-terminal-vscode-theme) schema.
 
 ## Borderless window
-Please note that I use borderless terminal. To open settings or whatever you need in Windows Terminal press `ctrl + shift + p`. Borderless windows cannot be dragged in Windows so you need to use shortcuts (see [this comment](https://github.com/microsoft/terminal/issues/2238#issuecomment-997455984) for more informations). To close the terminal use `ctrl + W`.
+Please note that I use borderless terminal. To open settings or whatever you need in Windows Terminal press `ctrl + shift + p`. Borderless windows cannot be dragged in Windows so you need to use shortcuts (see [this comment](https://github.com/microsoft/terminal/issues/2238#issuecomment-997455984) for more informations). Alternatively, you can use Microsoft's Power Toys with `Grab and Move` option enabled. To close the terminal use `ctrl + W`.
 
 If you want to have normal window change `Launch mode` to `Default` in `Settings -> Startup -> Launch parameters`.
 
