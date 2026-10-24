@@ -29,6 +29,8 @@
 - [Meld](https://meldmerge.org/) - Visual diff and merge tool
 - [VirtualCloneDrive](https://www.elby.ch/en/products/vcd.html) - Mouting files as virtual drive
 - [iDescriptor](https://github.com/iDescriptor/iDescriptor) - feature rich Apple's iDevice management tool
+- [GeoTagNinja](https://github.com/nemethviktor/GeoTagNinja) - A lightweight photo geotagger for Windows.
+- [live-photo-conv](https://github.com/wszqkzqk/live-photo-conv) - A cross-platform tool to process live photos (or motion photos). 
 
 # Graphics & Videos
 - [OBS Studio](https://obsproject.com) - screen recording
